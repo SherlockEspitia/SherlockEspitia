@@ -1,8 +1,8 @@
 # Hola todos, Soy Victor Espitia; para algunas personas Sherlock 🧐
+tambien en [Linkedin](https://www.linkedin.com/in/victor-miguel-espitia-gonzalez-9480605a/)
 
 ## Acerca de lo que hago 👋
-Laboro como desarrollador de software frontend y fullstack, tambien hago análisis de datos y algunas veces ciencia de datos. Suelo dar asesorias académicas de forma independiente en matematicas y ciencias naturales. Me gusta investigar y colaborar con mis compañeros. Ando terminando mi formación tecnologica en Analisis y Desarrollo de software. 
-
+Laboro como desarrollador de software frontend y fullstack, tambien hago análisis de datos y algunas veces ciencia de datos. Suelo dar asesorias académicas de forma independiente en matematicas y ciencias naturales. Me gusta investigar y colaborar con mis compañeros. Ando terminando mi formación tecnologica en Analisis y Desarrollo de software.
 
 <!--
 **SherlockEspitia/SherlockEspitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
